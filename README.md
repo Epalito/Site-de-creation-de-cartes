@@ -5,3 +5,5 @@ Formulaire en JS, interactions avec le DOM, récupération et mise en page des �
 Date de création : 24/03/2023
 
 Statut : fonctionnel mais pb au niveau de l'affichage des images en ligne dans les vignettes. A débuguer
+
+Modèle : Unlock Ton Computer (YouTube)
